@@ -1,0 +1,14 @@
+text,category
+Hello,Greeting
+Hi,Greeting
+Good Morning,Greeting
+How are you,Greeting
+What is AI,Question
+What is Python,Question
+Can you help me,Question
+Website is very slow,Complaint
+App is not working,Complaint
+I am facing an error,Complaint
+Service is excellent,Feedback
+Great experience,Feedback
+Very good service,Feedback
